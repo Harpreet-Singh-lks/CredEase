@@ -86,20 +86,3 @@ Looking ahead, we have exciting plans to expand and refine CredEase:
 
 CredEase is more than a digital wallet—it’s a companion for anyone navigating the complexities of relocation, turning a daunting process into a guided, secure, and efficient journey.
 
-## Local Working
-
-To try the code on your local machine, follow these steps. Please raise issues if you encounter any concerns:
-
-```bash
-# Clone the repository
-git clone https://github.com/kirat79/Miko-s-journey-.git
-
-# Run the backend
-cd Backend
-npm install
-npm run start1
-
-# Run the frontend
-cd Frontend
-npm install
-npm run dev
